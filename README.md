@@ -1,4 +1,4 @@
-# X11 Desktop Mirror & Touch for ST7796 + FT6336 (Raspberry Pi 4B)
+# X11 Desktop Mirror & Touch for ST7796 + FT6336 (Raspberry Pi 4B / 400)
 
 Real-time desktop mirroring from X11 to a 3.5" **ST7796** (320x480) display and capacitive touch support for **FT6336**. This project uses the `bcm2835` hardware library and `MIT-SHM` (XShm) for low-latency screen capture and I2C for touch coordinate output.
 
