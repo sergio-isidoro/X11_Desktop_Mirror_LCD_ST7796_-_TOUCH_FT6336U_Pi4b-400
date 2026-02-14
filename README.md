@@ -14,6 +14,10 @@ Real-time desktop mirroring from X11 to a 3.5" **ST7796** (320x480) display and 
 
 ---
 
+![20260214_004719(1)](https://github.com/user-attachments/assets/8d0ee738-0d41-430c-8842-3369d28ac0ac)
+
+---
+
 # Hardware Setup
 
 ### Wiring Diagram (GPIO BCM)
