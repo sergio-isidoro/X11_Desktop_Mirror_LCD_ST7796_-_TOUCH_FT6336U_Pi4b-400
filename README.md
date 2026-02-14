@@ -1,0 +1,2 @@
+# X11_Desktop_Mirror_LCD_ST7796_-_TOUCH_FT336U_Pi4b-400
+X11 Desktop Mirror LCD ST7796 + TOUCH FT336U Pi4b/400 
